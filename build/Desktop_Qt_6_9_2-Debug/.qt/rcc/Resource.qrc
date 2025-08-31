@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/background.jpg">/home/duc/TestUI/images/background.jpg</file>
+    <file alias="images/leftBtn.jpg">/home/duc/TestUI/images/leftBtn.jpg</file>
+    <file alias="images/rightBtn.jpg">/home/duc/TestUI/images/rightBtn.jpg</file>
+    <file alias="images/backgroundImage.png">/home/duc/TestUI/images/backgroundImage.png</file>
+  </qresource>
+</RCC>
+

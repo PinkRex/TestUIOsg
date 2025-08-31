@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/TestUI">/home/canhdx/TestUI/build/Desktop_Qt_6_9_1-Debug/TestUI</file>
+
+  </qresource>
+</RCC>

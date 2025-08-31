@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 398,
+                        "errorMessage": "",
+                        "functionName": "baseColorMap",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "materials",
+                        "line": 29
+                    }
+                ],
+                "filePath": "/home/duc/TestUI/WhiteVanCentered.qml"
+            }
+        ],
+        "moduleId": "TestUI(appTestUI)"
+    }
+]

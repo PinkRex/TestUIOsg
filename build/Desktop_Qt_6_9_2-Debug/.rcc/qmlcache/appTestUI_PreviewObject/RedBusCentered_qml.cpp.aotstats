@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "baseColorMap",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "baseColorMap",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "materials",
+                        "line": 68
+                    }
+                ],
+                "filePath": "/home/duc/TestUI/PreviewObject/RedBusCentered.qml"
+            }
+        ],
+        "moduleId": "TestUI(appTestUI)"
+    }
+]

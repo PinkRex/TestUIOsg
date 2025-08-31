@@ -1,0 +1,13 @@
+module TestUI
+typeinfo appTestUI.qmltypes
+prefer :/qt/qml/TestUI/
+Main 1.0 Main.qml
+Carousel 1.0 Carousel.qml
+BlueCarCentered 1.0 PreviewObject/BlueCarCentered.qml
+GreenCarCentered 1.0 PreviewObject/GreenCarCentered.qml
+JeepCarCentered 1.0 PreviewObject/JeepCarCentered.qml
+RedBusCentered 1.0 PreviewObject/RedBusCentered.qml
+WhiteCarCentered 1.0 PreviewObject/WhiteCarCentered.qml
+WhiteVanCentered 1.0 PreviewObject/WhiteVanCentered.qml
+depends QtQuick
+

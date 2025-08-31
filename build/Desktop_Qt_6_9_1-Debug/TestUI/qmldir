@@ -1,0 +1,8 @@
+module TestUI
+typeinfo appTestUI.qmltypes
+prefer :/qt/qml/TestUI/
+Main 1.0 Main.qml
+Monkey 1.0 Monkey.qml
+WhiteVan_Cleaned 1.0 WhiteVan_Cleaned.qml
+WhiteVanCentered 1.0 WhiteVanCentered.qml
+

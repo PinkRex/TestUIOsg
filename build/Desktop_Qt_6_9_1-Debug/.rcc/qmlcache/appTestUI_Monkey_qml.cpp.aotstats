@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "materials",
+                        "line": 23
+                    }
+                ],
+                "filePath": "/home/canhdx/TestUI/Monkey.qml"
+            }
+        ],
+        "moduleId": "TestUI(appTestUI)"
+    }
+]

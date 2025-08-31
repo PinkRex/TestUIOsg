@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/leftBtn.jpg</file>
+        <file>images/rightBtn.jpg</file>
+        <file>images/backgroundImage.png</file>
+        <file>Carousel.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "baseColorMap",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "",
+                        "functionName": "materials",
+                        "line": 32
+                    }
+                ],
+                "filePath": "/home/duc/TestUI/PreviewObject/JeepCarCentered.qml"
+            }
+        ],
+        "moduleId": "TestUI(appTestUI)"
+    }
+]

@@ -1,0 +1,24 @@
+import QtQuick 2.15
+import QtQuick.Window 2.15
+import QtQuick.Controls
+import QtQuick3D
+
+Window {
+    id: root
+    width: 800
+    height: 600
+    visible: true
+    title: "AOI Overlay with Canvas"
+
+    View3D {
+        anchors.fill: parent
+
+        environment: SceneEnvironment {
+            clearColor: "#222222"
+            backgroundMode: SceneEnvironment.Color
+        }
+
+    }
+
+}
+
