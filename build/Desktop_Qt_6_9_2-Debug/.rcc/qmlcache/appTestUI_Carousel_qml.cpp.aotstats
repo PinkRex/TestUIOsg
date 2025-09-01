@@ -5,59 +5,43 @@
                 "entries": [
                     {
                         "codegenSuccessful": true,
-                        "column": 17,
+                        "column": 19,
                         "durationMicroseconds": 94,
                         "errorMessage": "",
-                        "functionName": "height",
-                        "line": 76
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 16,
-                        "durationMicroseconds": 39,
-                        "errorMessage": "",
-                        "functionName": "width",
-                        "line": 77
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 19,
-                        "durationMicroseconds": 51,
-                        "errorMessage": "",
                         "functionName": "snapMode",
-                        "line": 89
+                        "line": 14
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 34,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 88
+                        "line": 13
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 32,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 75,
                         "errorMessage": "",
                         "functionName": "startY",
-                        "line": 104
+                        "line": 21
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 51,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 41,
                         "errorMessage": "",
                         "functionName": "value",
-                        "line": 105
+                        "line": 22
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 59,
+                        "durationMicroseconds": 60,
                         "errorMessage": "",
                         "functionName": "x",
-                        "line": 107
+                        "line": 24
                     },
                     {
                         "codegenSuccessful": true,
@@ -65,7 +49,7 @@
                         "durationMicroseconds": 53,
                         "errorMessage": "",
                         "functionName": "y",
-                        "line": 107
+                        "line": 24
                     },
                     {
                         "codegenSuccessful": true,
@@ -73,7 +57,7 @@
                         "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "x",
-                        "line": 110
+                        "line": 27
                     },
                     {
                         "codegenSuccessful": true,
@@ -81,7 +65,7 @@
                         "durationMicroseconds": 53,
                         "errorMessage": "",
                         "functionName": "y",
-                        "line": 110
+                        "line": 27
                     },
                     {
                         "codegenSuccessful": true,
@@ -89,79 +73,63 @@
                         "durationMicroseconds": 37,
                         "errorMessage": "",
                         "functionName": "value",
-                        "line": 111
+                        "line": 28
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 20,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 21,
                         "errorMessage": "Cannot access value for name root",
                         "functionName": "width",
-                        "line": 115
+                        "line": 32
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 21,
-                        "durationMicroseconds": 12,
+                        "durationMicroseconds": 13,
                         "errorMessage": "Cannot access value for name root",
                         "functionName": "height",
-                        "line": 116
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 16,
-                        "durationMicroseconds": 58,
-                        "errorMessage": "",
-                        "functionName": "y",
-                        "line": 119
+                        "line": 33
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 20,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 18,
                         "errorMessage": "Cannot load property scale from QQuickPathViewAttached.",
                         "functionName": "scale",
-                        "line": 121
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 24,
-                        "durationMicroseconds": 136,
-                        "errorMessage": "",
-                        "functionName": "color",
-                        "line": 126
+                        "line": 35
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 32,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 124
+                        "line": 38
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 131
+                        "line": 46
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 29,
-                        "durationMicroseconds": 159,
+                        "durationMicroseconds": 150,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "source",
-                        "line": 132
+                        "line": 47
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 35,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 31,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 129
+                        "line": 44
                     }
                 ],
                 "filePath": "/home/duc/TestUI/Carousel.qml"

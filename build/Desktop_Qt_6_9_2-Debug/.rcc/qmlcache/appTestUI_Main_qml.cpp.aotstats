@@ -6,10 +6,10 @@
                     {
                         "codegenSuccessful": false,
                         "column": 12,
-                        "durationMicroseconds": 1,
+                        "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"width\".",
                         "functionName": "width",
-                        "line": 318
+                        "line": 251
                     },
                     {
                         "codegenSuccessful": false,
@@ -17,39 +17,39 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"height\".",
                         "functionName": "height",
-                        "line": 319
+                        "line": 252
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 77,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 325
+                        "line": 258
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 70,
+                        "durationMicroseconds": 49,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 332
+                        "line": 265
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 20,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 45,
                         "errorMessage": "Cannot access value for name tabOpen",
                         "functionName": "width",
-                        "line": 333
+                        "line": 266
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 63,
-                        "durationMicroseconds": 65,
+                        "durationMicroseconds": 43,
                         "errorMessage": "",
                         "functionName": "type",
-                        "line": 336
+                        "line": 269
                     },
                     {
                         "codegenSuccessful": false,
@@ -57,7 +57,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"text\".",
                         "functionName": "text",
-                        "line": 341
+                        "line": 274
                     },
                     {
                         "codegenSuccessful": false,
@@ -65,95 +65,119 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"clicked\".",
                         "functionName": "onClicked",
-                        "line": 342
+                        "line": 275
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 35,
-                        "durationMicroseconds": 1,
+                        "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"centerIn\".",
                         "functionName": "centerIn",
-                        "line": 340
+                        "line": 273
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 42,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 350
+                        "line": 283
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 20,
-                        "durationMicroseconds": 47,
+                        "durationMicroseconds": 31,
                         "errorMessage": "Cannot access value for name tabOpen",
                         "functionName": "width",
-                        "line": 351
+                        "line": 284
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 63,
-                        "durationMicroseconds": 53,
+                        "durationMicroseconds": 50,
                         "errorMessage": "",
                         "functionName": "type",
-                        "line": 354
+                        "line": 287
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 30,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 358
+                        "line": 291
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 54,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 363
+                        "line": 296
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 90,
+                        "durationMicroseconds": 64,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 364
+                        "line": 297
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 43,
-                        "durationMicroseconds": 41,
+                        "durationMicroseconds": 30,
                         "errorMessage": "",
                         "functionName": "centerIn",
-                        "line": 366
+                        "line": 299
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 54,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 374
+                        "line": 307
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 76,
+                        "durationMicroseconds": 55,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 375
+                        "line": 308
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "itemWidth",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "itemHeight",
+                        "line": 313
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 32,
-                        "durationMicroseconds": 141,
+                        "durationMicroseconds": 95,
                         "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
                         "functionName": "model",
-                        "line": 383
+                        "line": 314
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 311
                     }
                 ],
                 "filePath": "/home/duc/TestUI/Main.qml"

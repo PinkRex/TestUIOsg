@@ -242,73 +242,6 @@
 // }
 
 
-// import QtQuick 2.15
-// import QtQuick.Controls 2.15
-// import QtQuick.Layouts 1.15
-
-// ApplicationWindow {
-//     visible: true
-//     width: 1200
-//     height: 800
-
-//     RowLayout {
-//         anchors.fill: parent
-
-//         // Cột trái - chiếm 70%
-//         Rectangle {
-//             Layout.fillHeight: true
-//             Layout.preferredWidth: 7
-//             color: "#333"
-
-//             // Nội dung bên trái (ví dụ View3D, ảnh…)
-//             Text {
-//                 anchors.centerIn: parent
-//                 text: "Nội dung chính"
-//                 color: "white"
-//             }
-//         }
-
-//         // Cột phải - chiếm 30%
-//         ColumnLayout {
-//             Layout.fillHeight: true
-//             Layout.preferredWidth: 3
-//             spacing: 10
-
-//             // Vùng trên (70% của cột phải)
-//             Rectangle {
-//                 Layout.fillWidth: true
-//                 Layout.preferredHeight: 7
-//                 color: "#999"
-
-//                 Text {
-//                     anchors.centerIn: parent
-//                     text: "Phần trên (70%)"
-//                     color: "white"
-//                 }
-//             }
-
-//             // Carousel - vùng dưới (30% của cột phải)
-//             Rectangle {
-//                 Layout.fillWidth: true
-//                 Layout.preferredHeight: 3
-//                 color: "#666"
-//             }
-
-//             // Carousel {
-
-//             //     model: [
-//             //         "qrc:/images/background.jpg",
-//             //         "qrc:/images/backgroundImage.png",
-//             //         "qrc:/images/leftBtn.jpg",
-//             //         "qrc:/images/rightBtn.jpg",
-//             //         "qrc:/images/background.jpg"
-//             //     ]
-//             // }
-//         }
-//     }
-// }
-
-
 import QtQuick 2.15
 import QtQuick.Controls 2.15
 
@@ -373,13 +306,11 @@ ApplicationWindow {
                     color: "#e67e22"
                     width: parent.width
                     height: parent.height * 0.3
-                    // Text {
-                    //     anchors.centerIn: parent
-                    //     text: "Bottom 30%"
-                    //     color: "white"
-                    // }
 
                     Carousel {
+                        anchors.fill: parent
+                        itemWidth: parent.width * 0.25
+                        itemHeight: parent.height * 0.25
                         model: [
                             "qrc:/images/background.jpg",
                             "qrc:/images/backgroundImage.png",
