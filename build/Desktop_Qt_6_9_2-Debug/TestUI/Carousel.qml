@@ -31,22 +31,34 @@ Item {
         delegate: Item {
             width: root.itemWidth
             height: root.itemHeight
-            // height: image.height
             scale: PathView.scale
 
             Rectangle {
                 anchors.fill: parent
+                border.color: "white"
                 color: "transparent"
-                border.color: "White"
 
                 Image {
                     id: image
                     anchors.fill: parent
-                    // anchors.margins: 5
                     fillMode: Image.PreserveAspectFit
                     source: modelData
                 }
             }
+
+            states: State {
+                when: PathView.isCurrentItem
+                PropertyChanges {
+                    target: image
+                    border.width: 2
+                    border.color: "red"
+                }
+            }
+        }
+
+        onCurrentIndexChanged: {
+            console.log("Item ở giữa bây giờ là index:", currentIndex,
+                        "source:", model[currentIndex])
         }
     }
 }

@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 369,
+                        "durationMicroseconds": 339,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 77

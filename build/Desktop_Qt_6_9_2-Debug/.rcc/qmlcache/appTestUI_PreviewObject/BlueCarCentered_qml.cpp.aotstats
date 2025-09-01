@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 494,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 57
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 38,
+                        "durationMicroseconds": 60,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 64
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 50,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 83
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 32,
+                        "durationMicroseconds": 46,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 96
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 32,
+                        "durationMicroseconds": 46,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 109
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 37,
+                        "durationMicroseconds": 45,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 116
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 45,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 123
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 44,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 130
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 45,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 155
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 383,
+                        "durationMicroseconds": 627,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 167

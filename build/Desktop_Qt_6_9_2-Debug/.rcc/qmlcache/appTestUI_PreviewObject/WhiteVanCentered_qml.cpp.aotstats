@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 102,
                         "errorMessage": "",
                         "functionName": "baseColorMap",
                         "line": 17
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 66,
+                        "durationMicroseconds": 93,
                         "errorMessage": "",
                         "functionName": "materials",
                         "line": 29

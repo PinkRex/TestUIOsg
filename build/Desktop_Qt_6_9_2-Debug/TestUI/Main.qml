@@ -308,15 +308,30 @@ ApplicationWindow {
                     height: parent.height * 0.3
 
                     Carousel {
+                        id: container
                         anchors.fill: parent
-                        itemWidth: parent.width * 0.25
-                        itemHeight: parent.height * 0.25
+                        itemWidth: parent.width * 0.35 + 1
+                        itemHeight: container.itemWidth * 9 / 16
                         model: [
-                            "qrc:/images/background.jpg",
-                            "qrc:/images/backgroundImage.png",
-                            "qrc:/images/leftBtn.jpg",
-                            "qrc:/images/rightBtn.jpg",
-                            "qrc:/images/background.jpg"
+                            "qrc:/ObjectThumbnail/BlackPickup.png",
+                            "qrc:/ObjectThumbnail/BlackPickup.png",
+                            "qrc:/ObjectThumbnail/BlackPickupV2.png",
+                            "qrc:/ObjectThumbnail/BlackPickupV3.png",
+                            "qrc:/ObjectThumbnail/BlackSUV.png",
+                            "qrc:/ObjectThumbnail/BlueAPC.png",
+                            "qrc:/ObjectThumbnail/BlueCar.png",
+                            "qrc:/ObjectThumbnail/BlueVan.png",
+                            "qrc:/ObjectThumbnail/GrayVan.png",
+                            "qrc:/ObjectThumbnail/GreenCar.png",
+                            "qrc:/ObjectThumbnail/PoliceCar.png",
+                            "qrc:/ObjectThumbnail/RedBus.png",
+                            "qrc:/ObjectThumbnail/RedCar.png",
+                            "qrc:/ObjectThumbnail/RollRoyce.png",
+                            "qrc:/ObjectThumbnail/WhiteCar.png",
+                            "qrc:/ObjectThumbnail/WhiteCarV2.png",
+                            "qrc:/ObjectThumbnail/WhiteCarV3.png",
+                            "qrc:/ObjectThumbnail/WhiteSUV.png",
+                            "qrc:/ObjectThumbnail/WhiteTruck.png"
                         ]
                     }
                 }

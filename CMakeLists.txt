@@ -15,7 +15,29 @@ qt_add_executable(appTestUI
 
 qt_add_resources(appTestUI "Resource"
     PREFIX "/"
-    FILES images/background.jpg images/leftBtn.jpg images/rightBtn.jpg images/backgroundImage.png
+    FILES   images/background.jpg
+            images/leftBtn.jpg
+            images/rightBtn.jpg
+            images/backgroundImage.png
+
+    FILES   ObjectThumbnail/BlackPickup.png
+            ObjectThumbnail/BlackPickupV2.png
+            ObjectThumbnail/BlackPickupV3.png
+            ObjectThumbnail/BlackSUV.png
+            ObjectThumbnail/BlueAPC.png
+            ObjectThumbnail/BlueCar.png
+            ObjectThumbnail/BlueVan.png
+            ObjectThumbnail/GrayVan.png
+            ObjectThumbnail/GreenCar.png
+            ObjectThumbnail/PoliceCar.png
+            ObjectThumbnail/RedBus.png
+            ObjectThumbnail/RedCar.png
+            ObjectThumbnail/RollRoyce.png
+            ObjectThumbnail/WhiteCar.png
+            ObjectThumbnail/WhiteCarV2.png
+            ObjectThumbnail/WhiteCarV3.png
+            ObjectThumbnail/WhiteSUV.png
+            ObjectThumbnail/WhiteTruck.png
 )
 
 qt_add_qml_module(appTestUI

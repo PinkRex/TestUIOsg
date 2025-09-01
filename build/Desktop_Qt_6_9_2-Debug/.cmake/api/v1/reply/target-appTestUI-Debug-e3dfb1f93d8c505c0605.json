@@ -102,13 +102,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 76,
+				"line" : 99,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 71,
+				"line" : 94,
 				"parent" : 0
 			},
 			{
@@ -286,7 +286,7 @@
 			{
 				"command" : 12,
 				"file" : 1,
-				"line" : 21,
+				"line" : 43,
 				"parent" : 0
 			},
 			{
@@ -697,6 +697,18 @@
 				"parent" : 66
 			},
 			{
+				"command" : 25,
+				"file" : 15,
+				"line" : 3321,
+				"parent" : 66
+			},
+			{
+				"command" : 25,
+				"file" : 15,
+				"line" : 3514,
+				"parent" : 66
+			},
+			{
 				"command" : 28,
 				"file" : 15,
 				"line" : 3629,
@@ -706,19 +718,19 @@
 				"command" : 27,
 				"file" : 0,
 				"line" : 400,
-				"parent" : 110
+				"parent" : 112
 			},
 			{
 				"command" : 26,
 				"file" : 0,
 				"line" : 2560,
-				"parent" : 111
+				"parent" : 113
 			},
 			{
 				"command" : 25,
 				"file" : 0,
 				"line" : 2104,
-				"parent" : 112
+				"parent" : 114
 			},
 			{
 				"command" : 28,
@@ -730,19 +742,19 @@
 				"command" : 27,
 				"file" : 0,
 				"line" : 400,
-				"parent" : 114
+				"parent" : 116
 			},
 			{
 				"command" : 26,
 				"file" : 0,
 				"line" : 2560,
-				"parent" : 115
+				"parent" : 117
 			},
 			{
 				"command" : 25,
 				"file" : 0,
 				"line" : 2104,
-				"parent" : 116
+				"parent" : 118
 			},
 			{
 				"command" : 32,
@@ -754,7 +766,7 @@
 				"command" : 25,
 				"file" : 0,
 				"line" : 2229,
-				"parent" : 118
+				"parent" : 120
 			}
 		]
 	},
@@ -967,8 +979,9 @@
 				18,
 				20,
 				22,
-				23,
-				24
+				24,
+				25,
+				26
 			]
 		}
 	],
@@ -1138,29 +1151,30 @@
 				18,
 				20,
 				22,
-				23,
 				24,
 				25,
-				30,
-				31,
-				32,
-				55,
-				56,
-				57,
-				74,
+				26,
+				27,
+				50,
+				51,
+				52,
 				75,
 				76,
 				77,
-				78,
-				79,
-				80,
-				81,
-				82,
-				83,
-				84,
-				85,
-				86,
-				87
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108
 			]
 		},
 		{
@@ -1175,7 +1189,8 @@
 				15,
 				17,
 				19,
-				21
+				21,
+				23
 			]
 		},
 		{
@@ -1189,60 +1204,79 @@
 			"name" : "Resources",
 			"sourceIndexes" : 
 			[
-				26,
-				27,
 				28,
 				29,
+				30,
+				31,
+				32,
 				33,
-				40,
-				41,
-				43,
-				46,
-				48,
-				54
-			]
-		},
-		{
-			"name" : "",
-			"sourceIndexes" : 
-			[
 				34,
 				35,
 				36,
 				37,
 				38,
 				39,
+				40,
+				41,
 				42,
+				43,
 				44,
 				45,
+				46,
 				47,
+				48,
 				49,
-				50,
-				51,
-				52,
-				53
+				53,
+				60,
+				61,
+				63,
+				66,
+				68,
+				74
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				62,
+				64,
+				65,
+				67,
+				69,
+				70,
+				71,
+				72,
+				73
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				58,
-				59,
-				60,
-				61,
-				62,
-				63,
-				64,
-				65,
-				66,
-				67,
-				68,
-				69,
-				70,
-				71,
-				72,
-				73
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94
 			]
 		}
 	],
@@ -1320,252 +1354,354 @@
 		},
 		{
 			"backtrace" : 98,
-			"path" : "PreviewObject/BlueCarCentered.qml",
+			"path" : "Carousel.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 99,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/BlueCarCentered_qml.cpp",
+			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_Carousel_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 100,
-			"path" : "PreviewObject/GreenCarCentered.qml",
+			"path" : "PreviewObject/BlueCarCentered.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 101,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/GreenCarCentered_qml.cpp",
+			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/BlueCarCentered_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 102,
-			"path" : "PreviewObject/JeepCarCentered.qml",
+			"path" : "PreviewObject/GreenCarCentered.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 103,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/JeepCarCentered_qml.cpp",
+			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/GreenCarCentered_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 104,
-			"path" : "PreviewObject/RedBusCentered.qml",
+			"path" : "PreviewObject/JeepCarCentered.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 105,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/RedBusCentered_qml.cpp",
+			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/JeepCarCentered_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 106,
-			"path" : "PreviewObject/WhiteCarCentered.qml",
+			"path" : "PreviewObject/RedBusCentered.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 107,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/WhiteCarCentered_qml.cpp",
+			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/RedBusCentered_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 108,
-			"path" : "PreviewObject/WhiteVanCentered.qml",
+			"path" : "PreviewObject/WhiteCarCentered.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 109,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/WhiteCarCentered_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 110,
+			"path" : "PreviewObject/WhiteVanCentered.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 111,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_PreviewObject/WhiteVanCentered_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 113,
+			"backtrace" : 115,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/.qt/rcc/qrc_appTestUI_raw_qml_0.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 117,
+			"backtrace" : 119,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/.qt/rcc/qrc_appTestUI_raw_qml_0_extra_qmldirs.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/.qt/rcc/Resource.qrc",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "images/background.jpg",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "images/leftBtn.jpg",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "images/rightBtn.jpg",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "images/backgroundImage.png",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/BlackPickup.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/BlackPickupV2.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/BlackPickupV3.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/BlackSUV.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/BlueAPC.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/BlueCar.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/BlueVan.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/GrayVan.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/GreenCar.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/PoliceCar.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/RedBus.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/RedCar.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/RollRoyce.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/WhiteCar.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/WhiteCarV2.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/WhiteCarV3.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/WhiteSUV.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
+			"path" : "ObjectThumbnail/WhiteTruck.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 121,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/.qt/rcc/qmake_TestUI.qrc",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/TestUI/qmldir",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/.qt/rcc/appTestUI_raw_qml_0.qrc",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "Resource.qrc",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/meshes/cube_005_mesh.mesh",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/meshes/dodgeChallenger_Plane_mesh.mesh",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/meshes/jeep_Renegade_2016_mesh.mesh",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/meshes/redBus_mesh.mesh",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/meshes/whiteCar_mesh.mesh",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/meshes/_Subaru_Loyale_mesh.mesh",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/13936_Tourist_bus_with_open_top_diffuse.jpg",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/13936_Tourist_bus_with_open_top_specular.jpg",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Body.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Body_diff.jpg",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Brake_Light.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Bumpers.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/car_jeep_ren.jpg",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Grill.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Hafei.png",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/License_Plate_-_Front.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/License_Plate_-_Rear.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Mirrors.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Rear_Window.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/Wheel.bmp",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"path" : "PreviewObject/maps/wheel_tire_diffuse.jpg",
 			"sourceGroupIndex" : 3
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/.qt/rcc/appTestUI_raw_qml_0_extra_qmldirs.qrc",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 119,
+			"backtrace" : 121,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/TestUI/PreviewObject/qmldir",
 			"sourceGroupIndex" : 0
@@ -1610,6 +1746,12 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_2-Debug/.rcc/qmlcache/appTestUI_Carousel_qml.cpp.rule",
 			"sourceGroupIndex" : 5
 		},
 		{
