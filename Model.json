@@ -1,0 +1,164 @@
+[
+    {
+        "name": "BlackPickup",
+        "thumbnail": "qrc:/ObjectThumbnail/BlackPickup.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/BlackPickup.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/BlackPickup.osg",
+        "cameraPos": [0, 5, 25],
+        "minZoom": 33,
+        "maxZoom": 17
+    },
+    {
+        "name": "BlackPickupV2",
+        "thumbnail": "qrc:/ObjectThumbnail/BlackPickupV2.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/BlackPickupV2.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/BlackPickupV2.osg",
+        "cameraPos": [0, 5, 25],
+        "minZoom": 33,
+        "maxZoom": 17
+    },
+    {
+        "name": "BlackPickupV3",
+        "thumbnail": "qrc:/ObjectThumbnail/BlackPickupV3.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/BlackPickupV3.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/BlackPickupV3.osg",
+        "cameraPos": [0, 5, 25],
+        "minZoom": 33,
+        "maxZoom": 17
+    },
+    {
+        "name": "BlackSUV",
+        "thumbnail": "qrc:/ObjectThumbnail/BlackSUV.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/BlackSUV.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/BlackSUV.osg",
+        "cameraPos": [0, 5, 25],
+        "minZoom": 33,
+        "maxZoom": 17
+    },
+    {
+        "name": "BlueAPC",
+        "thumbnail": "qrc:/ObjectThumbnail/BlueAPC.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/BlueAPC.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/BlueAPC.osg",
+        "cameraPos": [0, 5, 33],
+        "minZoom": 47,
+        "maxZoom": 27
+    },
+    {
+        "name": "BlueCar",
+        "thumbnail": "qrc:/ObjectThumbnail/BlueCar.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/BlueCar.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/BlueCar.osg",
+        "cameraPos": [0, 5, 19],
+        "minZoom": 25,
+        "maxZoom": 15
+    },
+    {
+        "name": "BlueVan",
+        "thumbnail": "qrc:/ObjectThumbnail/BlueVan.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/BlueVan.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/BlueVan.osg",
+        "cameraPos": [0, 5, 25],
+        "minZoom": 31,
+        "maxZoom": 19
+    },
+    {
+        "name": "GrayVan",
+        "thumbnail": "qrc:/ObjectThumbnail/GrayVan.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/GrayVan.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/GrayVan.osg",
+        "cameraPos": [0, 5, 25],
+        "minZoom": 29,
+        "maxZoom": 17
+    },
+    {
+        "name": "GreenCar",
+        "thumbnail": "qrc:/ObjectThumbnail/GreenCar.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/GreenCar.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/GreenCar.osg",
+        "cameraPos": [0, 5, 23],
+        "minZoom": 31,
+        "maxZoom": 17
+    },
+    {
+        "name": "PoliceCar",
+        "thumbnail": "qrc:/ObjectThumbnail/PoliceCar.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/PoliceCar.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/PoliceCar.osg",
+        "cameraPos": [0, 5, 23],
+        "minZoom": 31,
+        "maxZoom": 17
+    },
+    {
+        "name": "RedBus",
+        "thumbnail": "qrc:/ObjectThumbnail/RedBus.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/RedBus.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/RedBus.osg",
+        "cameraPos": [0, 5, 49],
+        "minZoom": 81,
+        "maxZoom": 43
+    },
+    {
+        "name": "RedCar",
+        "thumbnail": "qrc:/ObjectThumbnail/RedCar.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/RedCar.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/RedCar.osg",
+        "cameraPos": [0, 5, 25],
+        "minZoom": 33,
+        "maxZoom": 17
+    },
+    {
+        "name": "RollRoyce",
+        "thumbnail": "qrc:/ObjectThumbnail/RollRoyce.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/RollRoyce.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/RollRoyce.osg",
+        "cameraPos": [0, 5, 23],
+        "minZoom": 31,
+        "maxZoom": 17
+    },
+    {
+        "name": "WhiteCar",
+        "thumbnail": "qrc:/ObjectThumbnail/WhiteCar.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/WhiteCar.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/WhiteCar.osg",
+        "cameraPos": [0, 5, 25],
+        "minZoom": 33,
+        "maxZoom": 19
+    },
+    {
+        "name": "WhiteCarV2",
+        "thumbnail": "qrc:/ObjectThumbnail/WhiteCarV2.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/WhiteCarV2.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/WhiteCarV2.osg",
+        "cameraPos": [0, 5, 23],
+        "minZoom": 31,
+        "maxZoom": 17
+    },
+    {
+        "name": "WhiteCarV3",
+        "thumbnail": "qrc:/ObjectThumbnail/WhiteCarV3.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/WhiteCarV3.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/WhiteCarV3.osg",
+        "cameraPos": [0, 5, 19],
+        "minZoom": 29,
+        "maxZoom": 15
+    },
+    {
+        "name": "WhiteSUV",
+        "thumbnail": "qrc:/ObjectThumbnail/WhiteSUV.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/WhiteSUV.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/WhiteSUV.osg",
+        "cameraPos": [0, 5, 23],
+        "minZoom": 31,
+        "maxZoom": 17
+    },
+    {
+        "name": "WhiteTruck",
+        "thumbnail": "qrc:/ObjectThumbnail/WhiteTruck.png",
+        "modelSrc": "qrc:/PreviewObject/QmlFiles/WhiteTruck.qml",
+        "previewSrc": "qrc:/PreviewObject/OsgFiles/WhiteTruck.osg",
+        "cameraPos": [0, 5, 39],
+        "minZoom": 59,
+        "maxZoom": 29
+    }
+]

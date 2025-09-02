@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/TestUI/">
-    <file alias="PreviewObject/qmldir">/home/duc/TestUI/build/Desktop_Qt_6_9_2-Debug/TestUI/PreviewObject/qmldir</file>
-  </qresource>
-</RCC>
-

@@ -23,5 +23,41 @@
         <file>ObjectThumbnail/WhiteCarV3.png</file>
         <file>ObjectThumbnail/WhiteSUV.png</file>
         <file>ObjectThumbnail/WhiteTruck.png</file>
+        <file>PreviewObject/QmlFiles/BlackPickup.qml</file>
+        <file>PreviewObject/QmlFiles/BlackPickupV2.qml</file>
+        <file>PreviewObject/QmlFiles/BlackPickupV3.qml</file>
+        <file>PreviewObject/QmlFiles/BlackSUV.qml</file>
+        <file>PreviewObject/QmlFiles/BlueAPC.qml</file>
+        <file>PreviewObject/QmlFiles/BlueCar.qml</file>
+        <file>PreviewObject/QmlFiles/BlueVan.qml</file>
+        <file>PreviewObject/QmlFiles/GrayVan.qml</file>
+        <file>PreviewObject/QmlFiles/GreenCar.qml</file>
+        <file>PreviewObject/QmlFiles/PoliceCar.qml</file>
+        <file>PreviewObject/QmlFiles/RedBus.qml</file>
+        <file>PreviewObject/QmlFiles/RedCar.qml</file>
+        <file>PreviewObject/QmlFiles/RollRoyce.qml</file>
+        <file>PreviewObject/QmlFiles/WhiteCar.qml</file>
+        <file>PreviewObject/QmlFiles/WhiteCarV2.qml</file>
+        <file>PreviewObject/QmlFiles/WhiteCarV3.qml</file>
+        <file>PreviewObject/QmlFiles/WhiteSUV.qml</file>
+        <file>PreviewObject/QmlFiles/WhiteTruck.qml</file>
+        <file>PreviewObject/OsgFiles/BlackPickup.osg</file>
+        <file>PreviewObject/OsgFiles/BlackPickupV2.osg</file>
+        <file>PreviewObject/OsgFiles/BlackPickupV3.osg</file>
+        <file>PreviewObject/OsgFiles/BlackSUV.osg</file>
+        <file>PreviewObject/OsgFiles/BlueAPC.osg</file>
+        <file>PreviewObject/OsgFiles/BlueCar.osg</file>
+        <file>PreviewObject/OsgFiles/BlueVan.osg</file>
+        <file>PreviewObject/OsgFiles/GrayVan.osg</file>
+        <file>PreviewObject/OsgFiles/GreenCar.osg</file>
+        <file>PreviewObject/OsgFiles/PoliceCar.osg</file>
+        <file>PreviewObject/OsgFiles/RedBus.osg</file>
+        <file>PreviewObject/OsgFiles/RedCar.osg</file>
+        <file>PreviewObject/OsgFiles/RollRoyce.osg</file>
+        <file>PreviewObject/OsgFiles/WhiteCar.osg</file>
+        <file>PreviewObject/OsgFiles/WhiteCarV2.osg</file>
+        <file>PreviewObject/OsgFiles/WhiteCarV3.osg</file>
+        <file>PreviewObject/OsgFiles/WhiteSUV.osg</file>
+        <file>PreviewObject/OsgFiles/WhiteTruck.osg</file>
     </qresource>
 </RCC>

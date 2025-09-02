@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="images/background.jpg">/home/canhdx/TestUI/images/background.jpg</file>
-    <file alias="images/leftBtn.jpg">/home/canhdx/TestUI/images/leftBtn.jpg</file>
-    <file alias="images/rightBtn.jpg">/home/canhdx/TestUI/images/rightBtn.jpg</file>
-    <file alias="images/backgroundImage.png">/home/canhdx/TestUI/images/backgroundImage.png</file>
-  </qresource>
-</RCC>
-
